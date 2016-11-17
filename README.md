@@ -1,0 +1,1 @@
+This was a project created on The Odin Project s part of the Web Developer program. Can be seen at <a href="http://www.ggetchell.com/etch-a-sketch/sketch.html">Etch-A-Sketch Game</a>
